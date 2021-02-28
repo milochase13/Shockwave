@@ -1,4 +1,6 @@
 # Shockwave
+Written for CS 152
+
 Shockwave is a game like tic-tac-toe but with a twist
 
 Written in C. Shockwave operates much like tic-tac-toe except that the board can have any specified dimensions, the length of a run necessary to win
